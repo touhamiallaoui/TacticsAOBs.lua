@@ -34,4 +34,6 @@ Important Notes
 
 Live Overlay: The module includes a Sider overlay so you can monitor the live tactical changes you are forcing on the opponent.
 
+Credits: EmreCakir for reviewing and guidance
+
 Safe List: The script contains a predefined list of top clubs to protect your own team's tactics. The live tweaks will specifically target and hijack the generic CPU opponent's memory slots.
