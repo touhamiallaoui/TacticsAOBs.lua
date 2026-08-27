@@ -5,7 +5,7 @@ Drop the TacticsAOBs_v2,2.lua file directly into your Sider modules folder.
 Open your sider.ini file in a text editor.
 
 Add the following line to your lua modules section:
-lua.module = "TacticsAOBs_v2,1.lua"
+lua.module = "TacticsAOBs_v2,2.lua"
 
 Save the file and launch the game.
 
