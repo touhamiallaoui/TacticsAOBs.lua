@@ -1,6 +1,6 @@
 # TacticsAOBs.lua
 A module to control opponant's support range, defensive line and compactness for PES21, offline.
-Drop the TacticsAOBs_v2,1.lua file directly into your Sider modules folder.
+Drop the TacticsAOBs_v2,2.lua file directly into your Sider modules folder.
 
 Open your sider.ini file in a text editor.
 
